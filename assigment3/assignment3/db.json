@@ -1,0 +1,24 @@
+{
+    "products":[
+        {
+            "id":1,
+            "productName":"Moto G5",
+            "Quantity":2,
+            "Price":"RS 13000"
+          },
+          {
+            "id":2,
+            "productName":"Racold Geyser",
+            "Quantity":3,
+            "Price":"RS 6000"
+      
+          },
+          {
+            "id":3,
+            "productName":"Dell Television",
+            "Quantity":4,
+            "Price":"RS 50000"
+          }
+      
+    ]
+}

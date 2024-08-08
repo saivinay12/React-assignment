@@ -1,0 +1,10 @@
+.tableStyle{
+  border-Collapse: 'collapse';
+  width: '100%',
+}
+
+.thTdStyle {
+  border: '1px solid black';
+  padding: '8px';
+  text-align: 'left';
+}
